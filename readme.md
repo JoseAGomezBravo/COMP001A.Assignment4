@@ -1,0 +1,2 @@
+Author: Jose Angel Gomez Bravo
+Purpose: Create a website consisting of five pages using a theme of your choice. Your objective is to demonstrate your grasp of HTML structure, semantics, layout design, and various web features.
